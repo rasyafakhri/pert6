@@ -2,6 +2,7 @@
 # output
 <img src= "https://github.com/rasyafakhri/pert6/blob/main/pertemuan%206/output.png">
 # penjelasan
+
 ***1. BangunDatar:*** Kelas dasar abstrak dengan metode abstrak ```luas()``` dan ```keliling()```.
 
 ***2. Lingkaran:*** Mengimplementasikan ```luas()``` dan ```keliling()``` untuk lingkaran, menggunakan jari-jari ```r```.
